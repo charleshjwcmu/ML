@@ -1,0 +1,2 @@
+"","DV","Variable","# datapoints","R2","adjR2","AIC","BIC","F","RMSE","Coef","p-value","Robst p","BG_stat","DW_upper_stat","DW_lower_stat","BP_stat","RMSE_OS","ADF pvalue","PP pvalue","KPSS pvalue","Criteria1","Criteria2","Criteria3"
+"1","CO_grains","AAIIBEAR_IndexMoMDifferenceL0","70","0.0143563254182755","7.16344823084025e-05","399.158121727067","403.655112211166","0.319602918378889","4.06990427341122","-0.0601005846803024","0.319602918378889","0.187862347938687","0.8308869912729","0.463656394751492","0.536343605248508",NA,"5.66890376269222","0.01","0.01","0.1","","",""
